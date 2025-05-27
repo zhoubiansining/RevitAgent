@@ -1,0 +1,100 @@
+Please help me find all wall elements that are on level 1 in the project, represented by their IDs. Note that walls belong to the built-in category "OST_Walls", and the level ID of level 1 is 311.
+Please help me find all wall elements that are on level 2 in the project, represented by their IDs. Note that walls belong to the built-in category "OST_Walls", and the level ID of level 2 is 694.
+Please help me find all instances that belong to family symbol with ID 201574. Give me their IDs.
+Please help me find all instances that belong to family symbol with ID 317016. Give me their IDs.
+Display all parameters of the element that has an element ID of 310601.
+Display all parameters of the element that has an element ID of 288597.
+Please help me find all wall instances on level 2 with a volume larger than 6.0 cubic meters, represented by their IDs. Note that walls belong to the built-in category "OST_Walls", and the level ID of level 2 is 694. The name of parameter that represents the volume of a wall instance is "Volume".
+Please help me find all wall instances on level 1 with a volume smaller than 6.0 cubic meters, represented by their IDs. Note that walls belong to the built-in category "OST_Walls", and the level ID of level 1 is 311. The name of parameter that represents the volume of a wall instance is "Volume".
+Tell me how many door instances are on level 2 in the project. Note that doors belong to the built-in category "OST_Doors", and the level ID of level 2 is 694.
+Tell me how many door instances are on level 1 in the project. Note that doors belong to the built-in category "OST_Doors", and the level ID of level 1 is 311.
+Tell me how many window instances are on level 2 in the project. Note that windows belong to the built-in category "OST_Windows", and the level ID of level 2 is 694.
+Tell me how many window instances are on level 1 in the project. Note that windows belong to the built-in category "OST_Windows", and the level ID of level 1 is 311.
+Tell me how many railings are on level 2 in the project. Note that railings belong to the built-in category "OST_StairsRailing", and the level ID of level 2 is 694.
+Tell me how many railings are on level 1 in the project. Note that railings belong to the built-in category "OST_StairsRailing", and the level ID of level 1 is 311.
+Display all parameters of the element that has an element ID of 302033.
+Display all parameters of the element that has an element ID of 275717.
+Help me find the window instance(s) on level 2 with the largest area, represented by its(their) element ID. Note that windows belong to the built-in category "OST_Windows", and the level ID of level 2 is 694. The name of parameter that represents the area of a window instance is "Area".
+Help me find the window instance(s) on level 1 with the smallest area, represented by its(their) element ID. Note that windows belong to the built-in category "OST_Windows", and the level ID of level 1 is 311. The name of parameter that represents the area of a window instance is "Area".
+Please help me find all instances that belong to family symbol with ID 292532. Give me their IDs.
+Please help me find all instances that belong to family symbol with ID 272339. Give me their IDs.
+Display all the door elements on level 2 in the Revit 3D view. Note that doors belong to the built-in category "OST_Doors", and the level ID of level 2 is 694.
+Display all the door elements on level 1 in the Revit 3D view. Note that doors belong to the built-in category "OST_Doors", and the level ID of level 1 is 311.
+Display all instances that belong to family symbol with ID 201574 in the Revit 3D view.
+Display all instances that belong to family symbol with ID 317016 in the Revit 3D view.
+Display all the railing elements on level 2 in the Revit 3D view. Note that railings belong to the built-in category "OST_StairsRailing", and the level ID of level 2 is 694.
+Display all the railing elements on level 1 in the Revit 3D view. Note that railings belong to the built-in category "OST_StairsRailing", and the level ID of level 1 is 311.
+Display all window instances on level 2 that has an area greater than 3.0 square meters in the Revit 3D view. Note that windows belong to the built-in category "OST_Windows", and the level ID of level 2 is 694. The name of parameter that represents the area of a window instance is "Area".
+Display all window instances on level 1 that has an area smaller than 4.0 square meters in the Revit 3D view. Note that windows belong to the built-in category "OST_Windows", and the level ID of level 1 is 311. The name of parameter that represents the area of a window instance is "Area".
+Display the window element(s) whose parameter named "Mark" equals to "26" in the Revit 3D view. Note that windows belong to the built-in category "OST_Windows", and the parameter ID of "Mark" is -1001203.
+Display the door element(s) whose parameter named "Mark" equals to "6" in the Revit 3D view. Note that doors belong to the built-in category "OST_Doors", and the parameter ID of "Mark" is -1001203.
+Display the window element(s) whose parameter named "Mark" equals to "25" in the Revit 3D view. Note that windows belong to the built-in category "OST_Windows", and the parameter ID of "Mark" is -1001203.
+Display the door element(s) whose parameter named "Mark" equals to "2" in the Revit 3D view. Note that doors belong to the built-in category "OST_Doors", and the parameter ID of "Mark" is -1001203.
+Display the window element(s) whose parameter named "Mark" equals to "2" in the Revit 3D view. Note that windows belong to the built-in category "OST_Windows", and the parameter ID of "Mark" is -1001203.
+Display the door element(s) whose parameter named "Mark" equals to "7" in the Revit 3D view. Note that doors belong to the built-in category "OST_Doors", and the parameter ID of "Mark" is -1001203.
+Display the window element(s) whose parameter named "Mark" equals to "17" in the Revit 3D view. Note that windows belong to the built-in category "OST_Windows", and the parameter ID of "Mark" is -1001203.
+Display the door element(s) whose parameter named "Mark" equals to "21" in the Revit 3D view. Note that doors belong to the built-in category "OST_Doors", and the parameter ID of "Mark" is -1001203.
+Display the window element(s) whose parameter named "Mark" equals to "3" in the Revit 3D view. Note that windows belong to the built-in category "OST_Windows", and the parameter ID of "Mark" is -1001203.
+Display the door element(s) whose parameter named "Mark" equals to "14" in the Revit 3D view. Note that doors belong to the built-in category "OST_Doors", and the parameter ID of "Mark" is -1001203.
+Find all wall elements that are on the attic floor level in the project, represented by their IDs. Note that walls belong to the built-in category "OST_Walls", and the level ID of attic level is 267517.
+Find all window elements that are on the attic floor level in the project, represented by their IDs. Note that windows belong to the built-in category "OST_Windows", and the level ID of attic level is 267517.
+Find all door elements that are on the attic floor level in the project, represented by their IDs. Note that doors belong to the built-in category "OST_Doors", and the level ID of attic level is 267517.
+Find all railing elements that are on the attic floor level in the project, represented by their IDs. Note that railings belong to the built-in category "OST_StairsRailing", and the level ID of attic level is 267517.
+Tell me how many wall instances are on the attic floor level in the project. Note that walls belong to the built-in category "OST_Walls", and the level ID of attic level is 267517.
+Tell me how many window instances are on the attic floor level in the project. Note that windows belong to the built-in category "OST_Windows", and the level ID of attic level is 267517.
+Tell me how many door instances are on the attic floor level in the project. Note that doors belong to the built-in category "OST_Doors", and the level ID of attic level is 267517.
+Tell me how many railing instances are on the attic floor level in the project. Note that railings belong to the built-in category "OST_StairsRailing", and the level ID of attic level is 267517.
+Please help me find all window elements on the attic floor level that has an area greater than 2.0 square meters, represented by their IDs. Note that windows belong to the built-in category "OST_Windows", and the level ID of attic level is 267517. The name of parameter that represents the area of a window instance is "Area".
+Please help me find all window elements on the attic floor level that has an area smaller than 2.0 square meters, represented by their IDs. Note that windows belong to the built-in category "OST_Windows", and the level ID of attic level is 267517. The name of parameter that represents the area of a window instance is "Area".
+Find the window instance(s) on the attic floor level with the largest area, represented by its(their) element ID. Note that windows belong to the built-in category "OST_Windows", and the level ID of attic level is 267517. The name of parameter that represents the area of a window instance is "Area".
+Find the window instance(s) on the attic floor level with the smallest area, represented by its(their) element ID. Note that windows belong to the built-in category "OST_Windows", and the level ID of attic level is 267517. The name of parameter that represents the area of a window instance is "Area".
+Please help me find all door instances on the attic floor level with an area larger than 4.0 square meters, represented by their IDs. Note that doors belong to the built-in category "OST_Doors", and the level ID of attic level is 267517. The built-in ID of the parameter that represents the area of a door instance is "HOST_AREA_COMPUTED".
+Please help me find all door instances on the attic floor level with an area smaller than 4.0 square meters, represented by their IDs. Note that doors belong to the built-in category "OST_Doors", and the level ID of attic level is 267517. The built-in ID of the parameter that represents the area of a door instance is "HOST_AREA_COMPUTED".
+Find the door instance(s) on the attic floor level with the largest area, represented by its(their) element ID. Note that doors belong to the built-in category "OST_Doors", and the level ID of attic level is 267517. The built-in ID of the parameter that represents the area of a door instance is "HOST_AREA_COMPUTED".
+Find the door instance(s) on the attic floor level with the smallest area, represented by its(their) element ID. Note that doors belong to the built-in category "OST_Doors", and the level ID of attic level is 267517. The built-in ID of the parameter that represents the area of a door instance is "HOST_AREA_COMPUTED".
+Give me the family name of the element that has an element ID of 343701. You may find the family name of an instance in the built-in parameter "ELEM_FAMILY_PARAM".
+Give me the family name of the element that has an element ID of 295314. You may find the family name of an instance in the built-in parameter "ELEM_FAMILY_PARAM".
+Give me the sill height of the window element on level 1 whose parameter named "Mark" equals to "4". Note that windows belong to the built-in category "OST_Windows", and the level ID of level 1 is 311. You may find the sill height of an instance in the built-in parameter "INSTANCE_SILL_HEIGHT_PARAM".
+Give me the sill height of the window element on level 2 whose parameter named "Mark" equals to "11". Note that windows belong to the built-in category "OST_Windows", and the level ID of level 2 is 694. You may find the sill height of an instance in the built-in parameter "INSTANCE_SILL_HEIGHT_PARAM".
+Find the area of the door element on level 1 whose parameter named "Mark" equals to "2". Note that doors belong to the built-in category "OST_Doors", and the level ID of level 1 is 311. You may find the area of an instance in the built-in parameter "HOST_AREA_COMPUTED".
+Find the area of the door element on level 2 whose parameter named "Mark" equals to "9". Note that doors belong to the built-in category "OST_Doors", and the level ID of level 2 is 694. You may find the area of an instance in the built-in parameter "HOST_AREA_COMPUTED".
+Find the area of the door element on level 1 whose parameter named "Mark" equals to "5". Note that doors belong to the built-in category "OST_Doors", and the level ID of level 1 is 311. You may find the area of an instance in the built-in parameter "HOST_AREA_COMPUTED".
+Find the area of the door element on level 2 whose parameter named "Mark" equals to "6". Note that doors belong to the built-in category "OST_Doors", and the level ID of level 2 is 694. You may find the area of an instance in the built-in parameter "HOST_AREA_COMPUTED".
+Find the area of the door element on the attic floor level whose parameter named "Mark" equals to "16". Note that doors belong to the built-in category "OST_Doors", and the level ID of attic level is 267517. You may find the area of an instance in the built-in parameter "HOST_AREA_COMPUTED".
+Find the area of the door element on the attic floor level whose parameter named "Mark" equals to "15". Note that doors belong to the built-in category "OST_Doors", and the level ID of attic level is 267517. You may find the area of an instance in the built-in parameter "HOST_AREA_COMPUTED".
+What level is the element with element ID 344294 on? Give me the level ID.
+What level is the element with element ID 320808 on? Give me the level ID.
+Find the head height of the window element on level 1 whose parameter named "Mark" equals to "6". Note that windows belong to the built-in category "OST_Windows", and the level ID of level 1 is 311. You may find the head height of an instance in the built-in parameter "INSTANCE_HEAD_HEIGHT_PARAM".
+Find the head height of the window element on level 2 whose parameter named "Mark" equals to "17". Note that windows belong to the built-in category "OST_Windows", and the level ID of level 2 is 694. You may find the head height of an instance in the built-in parameter "INSTANCE_HEAD_HEIGHT_PARAM".
+Find the IfcGUID and unconnected height of the wall element with element ID 288482. Note that walls belong to the built-in category "OST_Walls". You may find the IfcGUID of an instance in the built-in parameter "IFC_GUID". You may find the unconnected height of a wall instance in the built-in parameter "WALL_USER_HEIGHT_PARAM".
+Find the IfcGUID and unconnected height of the wall element with element ID 272869. Note that walls belong to the built-in category "OST_Walls". You may find the IfcGUID of an instance in the built-in parameter "IFC_GUID". You may find the unconnected height of a wall instance in the built-in parameter "WALL_USER_HEIGHT_PARAM".
+Set the built-in parameter "ALL_MODEL_INSTANCE_COMMENTS" of the element with element ID 289867 to "This is a door element".
+Set the built-in parameter "ALL_MODEL_INSTANCE_COMMENTS" of the element with element ID 291556 to "This is a window element".
+Set the built-in parameter "ALL_MODEL_INSTANCE_COMMENTS" of the element with element ID 343384 to "This is a tree element".
+Set the built-in parameter "ALL_MODEL_INSTANCE_COMMENTS" of the element with element ID 302259 to "This is a railing element".
+Set the parameter named "Comments" of the element with element ID 344096 to "This is a car element".
+Set the parameter named "Comments" of the element with element ID 297402 to "This is a railing element".
+Set the parameter named "Comments" of the element with element ID 292535 to "This is a window element".
+Set the parameter named "Comments" of the element with element ID 331158 to "This is a roof element".
+Set the built-in parameter "ALL_MODEL_MARK" of the element with element ID 331158 to "1".
+Set the built-in parameter "ALL_MODEL_MARK" of the element with element ID 330036 to "2".
+Set the built-in parameter "ALL_MODEL_MARK" of the element with element ID 343982 to "1".
+Set the built-in parameter "ALL_MODEL_MARK" of the element with element ID 344052 to "2".
+Find the area of the window element with element ID 291556, denoted as %Area%, then set the element's parameter named "Comments" to "This window has an area of %Area% square meters", replacing %Area% with the actual value. You may find the area of an window instance in the built-in parameter "HOST_AREA_COMPUTED".
+Find the area of the window element with element ID 317420, denoted as %Area%, then set the element's parameter named "Comments" to "This window has an area of %Area% square meters", replacing %Area% with the actual value. You may find the area of an window instance in the built-in parameter "HOST_AREA_COMPUTED".
+Find the length of the railing element with element ID 302259, denoted as %Length%, then set the element's parameter named "Comments" to "This railing has a length of %Length% millimeters", replacing %Length% with the actual value. You may find the length of an railing instance in the built-in parameter "CURVE_ELEM_LENGTH".
+Find the length of the railing element with element ID 297402, denoted as %Length%, then set the element's parameter named "Comments" to "This railing has a length of %Length% millimeters", replacing %Length% with the actual value. You may find the length of an railing instance in the built-in parameter "CURVE_ELEM_LENGTH".
+Find the volume of the wall element with element ID 288482, denoted as %Volume%, then set the element's parameter named "Comments" to "This wall has a volume of %Volume% cubic meters", replacing %Volume% with the actual value. You may find the volume of an wall instance in the built-in parameter "HOST_VOLUME_COMPUTED".
+Find the volume of the wall element with element ID 310601, denoted as %Volume%, then set the element's parameter named "Comments" to "This wall has a volume of %Volume% cubic meters", replacing %Volume% with the actual value. You may find the volume of an wall instance in the built-in parameter "HOST_VOLUME_COMPUTED".
+Set the built-in parameter "STAIRS_RAILING_PLACEMENT_OFFSET" of the railing element with ID 302259 to 0.05 meters. Make sure that the value to be set matches the units of the parameter.
+Set the built-in parameter "STAIRS_RAILING_PLACEMENT_OFFSET" of the railing element with ID 319856 to 0.01 meters. Make sure that the value to be set matches the units of the parameter.
+Delete the element with ID 344294.
+Delete the element with ID 343999.
+Delete the following elements, represented by their ID: 343999, 344294, 344052.
+Delete the following elements, represented by their ID: 343748, 343224, 343773, 343603.
+Delete all instances that belong to the family symbol with family symbol ID 201574.
+Delete all instances that belong to the family symbol with family symbol ID 317016.
+Delete the window element on level 1 whose parameter named "Mark" equals to "6". Note that windows belong to the built-in category "OST_Windows", and the level ID of level 1 is 311.
+Delete the window element on level 2 whose parameter named "Mark" equals to "17". Note that windows belong to the built-in category "OST_Windows", and the level ID of level 2 is 694.
+Delete the door element on level 1 whose parameter named "Mark" equals to "5". Note that doors belong to the built-in category "OST_Doors", and the level ID of level 1 is 311.
+Delete the door element on level 2 whose parameter named "Mark" equals to "11". Note that doors belong to the built-in category "OST_Doors", and the level ID of level 2 is 694.

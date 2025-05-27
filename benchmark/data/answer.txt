@@ -1,0 +1,100 @@
+IDs: 272869, 272986, 273036, 273121, 273274, 273329, 273377, 273573, 273736, 273824, 273965, 274015, 274074, 274115, 274175, 283038, 333442.
+IDs: 288335, 288400, 288482, 288597, 288734, 288815, 288873, 288989, 289183, 289241, 289335, 289395, 289447, 289568, 289713, 289765, 298175, 298280, 323775.
+IDs: 343224, 343349, 343384, 343445, 343526, 343603, 343674, 343701, 343748, 343773.
+IDs: 317019, 317108.
+Call RetrieveAllParameters.
+Call RetrieveAllParameters.
+IDs: 288335, 289183.
+IDs: 272986, 273036, 273121, 273329, 273377, 273573, 273824, 273965, 274015, 274074, 274115, 274175, 283038, 333442.
+N=7.
+N=6.
+N=8.
+N=8.
+N=3.
+N=2.
+Call RetrieveAllParameters.
+Call RetrieveAllParameters.
+IDs: 291131, 291375, 291399.
+IDs: 281118, 281485.
+IDs: 292535.
+IDs: 272342, 272452.
+Show 7 door elements in 3D view.
+Show 6 door elements in 3D view.
+Show 10 tree elements in 3D view.
+Show 2 window elements in 3D view.
+Show 3 railing elements in 3D view.
+Show 2 railing elements in 3D view.
+Show 6 window elements in 3D view.
+Show 4 window elements in 3D view.
+Show 1 window element in 3D view. ID: 317108.
+Show 1 door element in 3D view. ID: 289867.
+Show 1 window element in 3D view. ID: 317019.
+Show 1 door element in 3D view. ID: 275717.
+Show 1 window element in 3D view. ID: 280543.
+Show 1 door element in 3D view. ID: 289901.
+Show 1 window element in 3D view. ID: 292535.
+Show 1 door element in 3D view. ID: 334061.
+Show 1 window element in 3D view. ID: 280681.
+Show 1 door element in 3D view. ID: 312985.
+IDs: 310309, 310464, 310601, 310650, 310710, 310807, 311509, 311772, 311822, 311881, 312153, 312204, 312238, 312330, 312592
+IDs: 316062, 316178, 316723, 316796, 317019, 317108, 317321, 317420.
+IDs: 312711, 312985, 313076, 313203, 313555, 314722, 314819.
+IDs: 319856, 320808, 336889.
+N=15.
+N=8.
+N=7.
+N=3.
+IDs: 316062, 316796, 317019, 317108.
+IDs: 316178, 316723, 317321, 317420.
+IDs: 316796.
+IDs: 317420.
+IDs: 312711, 312985, 313076, 313203, 313555.
+IDs: 314722, 314819.
+IDs: 312711, 312985, 313076, 313203, 313555.
+IDs: 314722, 314819.
+Family name: RPC Ê÷ - ÂäÒ¶Ê÷.
+Family name: Railing.
+900mm.
+900mm.
+4.65m^2.
+4.65m^2.
+8.00m^2.
+4.65m^2.
+4.65m^2.
+4.65m^2.
+ID: 267575.
+ID: 267517.
+2700mm.
+2400mm.
+IfcGUID: 3yrSDl6710pQDet5XK9gCD, unconnected height: 3000mm.
+IfcGUID: 030csV9I1CKxwmbjNthhcT, unconnected height: 3750mm.
+Call SetParameterWithBuiltInId.
+Call SetParameterWithBuiltInId.
+Call SetParameterWithBuiltInId.
+Call SetParameterWithBuiltInId.
+Call SetParameterWithParameterName.
+Call SetParameterWithParameterName.
+Call SetParameterWithParameterName.
+Call SetParameterWithParameterName.
+Call SetParameterWithBuiltInId.
+Call SetParameterWithBuiltInId.
+Call SetParameterWithBuiltInId.
+Call SetParameterWithBuiltInId.
+Call SetParameterWithParameterName. %Area%=2.81.
+Call SetParameterWithParameterName. %Area%=1.01.
+Call SetParameterWithParameterName. %Length%=3937.
+Call SetParameterWithParameterName. %Length%=1681.
+Call SetParameterWithParameterName. %Volume%=4.07.
+Call SetParameterWithParameterName. %Volume%=7.71.
+Call SetParameterWithBuiltInId. New Value=50.
+Call SetParameterWithBuiltInId. New Value=10.
+Call DeleteElement.
+Call DeleteElement.
+Call DeleteElement.
+Call DeleteElement.
+Call DeleteElement. IDs: 343224, 343349, 343384, 343445, 343526, 343603, 343674, 343701, 343748, 343773.
+Call DeleteElement. IDs: 317019, 317108.
+Call DeleteElement. ID: 281291.
+Call DeleteElement. ID: 292535.
+Call DeleteElement. ID: 279604.
+Call DeleteElement. ID: 290372.

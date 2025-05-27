@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Revit Agent</Name>
+		<Assembly>RevitAgent.dll</Assembly>
+		<AddInId>604B1052-F742-4951-8576-C261D0000000</AddInId>
+		<FullClassName>RevitAgent.AgentApplication</FullClassName>
+		<VendorId>SiningTHU</VendorId>
+		<VendorDescription>This is Sining from Tsinghua University</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Assembly>RevitAgent.dll</Assembly>
+		<AddInId>604B1052-F742-4951-8576-C261D0000001</AddInId>
+		<FullClassName>RevitAgent.Hello</FullClassName>
+		<Text>Say Hello</Text>
+		<Description>Test application by saying hello from Revit.</Description>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+		<VendorId>SiningTHU</VendorId>
+		<VendorDescription>This is Sining from Tsinghua University</VendorDescription>
+	</AddIn>
+</RevitAddIns>
